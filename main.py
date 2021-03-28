@@ -23,7 +23,7 @@ def command_handler(message: Message):
 '\n'
 '🔲Контакт оператора🔲: @Black_irkutsk\n'
 '\n'
-'🔳Ссылка на наш новый чат🔳:\n'
+'🔳Ссылка на наш новый чат🔳:https://t.me/joinchat/_5sLn2FenjJjNjEy\n'
 '\n'
 '♤♤♤Чтобы совершить покупку в ♤АВТОМАТИЧЕСКОМ РЕЖИМЕ♤\n'
 'Нажми 👉/buy👈\n')
@@ -76,7 +76,7 @@ def command_handler(message: Message):
 '\n'
 'Наш резервный аккаунт\n' 
 '@Black_irkutsk_rezerv  РАБОТАЕТ ВСЕГДА, ПИШИТЕ🔰 В СЛУЧАЕ ЕСЛИ ПРОБЛЕМЫ С ОСНОВНЫМ АККАУНТОМ\n'
-'❗️❗️❗️НАШ НОВЫЙ ЧАТ \n'
+'❗️❗️❗️НАШ НОВЫЙ ЧАТ https://t.me/joinchat/_5sLn2FenjJjNjEy \n'
 '\n'
 '\n'
 'Легких подъемов 😄\n'
